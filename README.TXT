@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project was created as a sample for small scale Gym to effectively manage their members. 
+the members' information other info like : active status, payments, attendace etc. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Gym Interface 
+PURPOSE OF PROJECT: To make a system for a local gym to manage their members using this system. 
 VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Go to the GYM GUI file. 
+AUTHORS: Anush Gurung 
+Language: JAVA 
+
+
